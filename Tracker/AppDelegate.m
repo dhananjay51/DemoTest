@@ -31,7 +31,7 @@
 
 @implementation AppDelegate
 
-
+//appdeleate method
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     
