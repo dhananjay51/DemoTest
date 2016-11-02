@@ -20,6 +20,7 @@
 
 @implementation ProfileVC
 
+// viewdiload method
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.navigationItem.title=@"Setting";
